@@ -1,5 +1,10 @@
 {
-    "home_cms": {
-        "api_cache_duration": "400000"
-    }
+   "home_api_cache_duration": "100000",
+    "eshop_home_cache_duration": "1000000",
+    "onboarding_cache_duration":"1000000",
+    "events_home_cache_duration": "1000000",
+    "video_gallery_cache_duration":"1000000",
+    "image_gallery_cache_duration":"100000",
+    "blogs_cache_duration":"100000"
+    
 }
